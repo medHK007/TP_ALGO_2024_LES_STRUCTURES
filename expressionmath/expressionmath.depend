@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1702418648 source:c:\users\hamza_chroqui\desktop\expressionmath\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1702238277 c:\users\hamza_chroqui\desktop\expressionmath\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1702238615 source:c:\users\hamza_chroqui\desktop\expressionmath\traitement.c
+	"header.h"
+
+1702418648 source:c:\users\user\desktop\expressionmath\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1702429808 source:c:\users\user\desktop\new acredit (2021-2024)\s1\ph1\sdd\des codes\expressionmath\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
