@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1700954048 source:c:\users\hamza_chroqui\desktop\all\fonctionmaniplistepointeur.c
+	"headerofall.h"
+
+1700954234 c:\users\hamza_chroqui\desktop\all\headerofall.h
+	<stdio.h>
+	<stdlib.h>
+
+1700953201 source:c:\users\hamza_chroqui\desktop\all\main.c
+	"headerofall.h"
+
+1700952106 source:c:\users\hamza_chroqui\desktop\all\fctmaniplistetb.c
+	"headerofall.h"
+
+1700953992 source:c:\users\hamza_chroqui\desktop\all\fctmanippileptr.c
+	"headerofall.h"
+
+1700953479 source:c:\users\hamza_chroqui\desktop\all\fctmanippiletb.c
+	"headerofall.h"
+
+1700953694 source:c:\users\hamza_chroqui\desktop\all\fctmanipfileptr.c
+	"headerofall.h"
+
+1700953919 source:c:\users\hamza_chroqui\desktop\all\fctmanipfiletb.c
+	"headerofall.h"
+
+1700999213 source:c:\users\user\desktop\all\fctmaniparbptr.c
+	"headerofall.h"
+
+1701033586 c:\users\user\desktop\all\headerofall.h
+	<stdio.h>
+	<stdlib.h>
+
+1701034117 source:c:\users\user\desktop\all\fctmanipfileptr.c
+	"headerofall.h"
+
+1700953919 source:c:\users\user\desktop\all\fctmanipfiletb.c
+	"headerofall.h"
+
+1701019399 source:c:\users\user\desktop\all\fctmaniplistetb.c
+	"headerofall.h"
+
+1701024923 source:c:\users\user\desktop\all\fctmanippileptr.c
+	"headerofall.h"
+
+1700953479 source:c:\users\user\desktop\all\fctmanippiletb.c
+	"headerofall.h"
+
+1701019457 source:c:\users\user\desktop\all\fonctionmaniplistepointeur.c
+	"headerofall.h"
+
+1701034322 source:c:\users\user\desktop\all\main.c
+	"headerofall.h"
+
+1700999146 source:c:\users\user\desktop\all\fctmaniparbtb.c
+	"headerofall.h"
+
+1700999213 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctmaniparbptr.c
+	"headerofall.h"
+
+1701033586 c:\users\hamza_chroqui\desktop\nouveau dossier\all\headerofall.h
+	<stdio.h>
+	<stdlib.h>
+
+1700999146 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctmaniparbtb.c
+	"headerofall.h"
+
+1701034117 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctmanipfileptr.c
+	"headerofall.h"
+
+1700953919 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctmanipfiletb.c
+	"headerofall.h"
+
+1701019399 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctmaniplistetb.c
+	"headerofall.h"
+
+1701024923 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctmanippileptr.c
+	"headerofall.h"
+
+1700953479 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctmanippiletb.c
+	"headerofall.h"
+
+1701019457 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fonctionmaniplistepointeur.c
+	"headerofall.h"
+
+1701033578 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\main.c
+	"headerofall.h"
+
+1701029398 source:c:\users\hamza_chroqui\desktop\nouveau dossier\all\fctdetransfere.c
+	"headerofall.h"
+
+1701029398 source:c:\users\user\desktop\all\fctdetransfere.c
+	"headerofall.h"
+
